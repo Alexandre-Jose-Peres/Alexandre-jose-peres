@@ -84,6 +84,8 @@ Me chamo Alexandre, tenho 36 anos e sou natural de Delfim Moreira. Concluí o en
     src="https://github-readme-stats.vercel.app/api?username=Alexandre-jose-peres&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  br
+
 <img 
       align="left" 
       alt="GitHub Stats" 
