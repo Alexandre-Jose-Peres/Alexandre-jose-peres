@@ -1,6 +1,6 @@
 # Alexandre
 
-**`Desenvolvedor FullStack`**
+
 
 Me chamo Alexandre, tenho 36 anos e sou natural de Delfim Moreira. Concluí o ensino médio na Escola Estadual Marquês de Sapucaí. Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Sou apaixonado por tecnologia e pelo desafio".
 
