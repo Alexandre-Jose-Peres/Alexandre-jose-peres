@@ -81,7 +81,7 @@ Me chamo Alexandre, tenho 36 anos e sou natural de Delfim Moreira. Concluí o en
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Alexandre-jose-peres&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Alexandre-Jose-Peres&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <br/>
@@ -91,7 +91,7 @@ Me chamo Alexandre, tenho 36 anos e sou natural de Delfim Moreira. Concluí o en
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-jose-peres&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Jose-Peres&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
